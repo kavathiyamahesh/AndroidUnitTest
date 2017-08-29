@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_3920ed92e065f66958599a9732cc2adc41f3ae74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_6c180bff481d40b9790995631e3797884249bd71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\832d51ce96b92855337a12983f71adf997ae9076\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_32cb91990ee9700c8aecf20155cf33df2f83937c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_c03880a9bf005b9bdfb2a1a4f098a8c9f808391f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_ec198d1c8df6f084c13990b46e648ca0da239975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\1fc125ea3897c32dd51877ad7dbcf8b64171338f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_9941ca1467c0c0c9bca30a98d20e50aaa8dc55a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\19908226e57f9bfb2fa841a82e576c098e3bf9b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_5376123e3d70bb1e901cf5901271aebfacaa3a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\bd7769be01dd6e6e1d72409aa8339870bc1a1a61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_4001809e6ccd66047b7e99e9c17a10629881fb9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\1c895a8f1142e4c81c21cc3aca215c2b0850d5b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\classes_2d209f3da9c174b454ca4e036f678c1835061799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_923da4fb5d73f6988f036faa286b26a7852a4f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_487a29a6a82ea9ccd3d93e0e0e78b1f9bf153e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\22dd4d31a6d1695e6dc0c4b0349368f391ce60d5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efc9e293447db1929eb3853a3f83e8f46a957436">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\classes_902144bddb5930a3f0aa1122dd504acb4dc41f21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\08cff2f8f0f9579cf382d76f6a965ad5dbc3a2e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\classes_7f8085e02bfe9ae9225cfefe2564f29632a861b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\483391647e410de9df251380f9a43512d5bc623b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_2e721575856432f4dafc58818c2a37c5ce7c42a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android-SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a0021891720132239abbaf6ae586dba21c01d18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\f2e19bfc2b6fbc68a75784bf414d08787aedf8ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_abf204c05f37744c509ba347c9f2373bdbc861aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\ccd1bfdc282cc830231b6c509fee8d96ec3c373e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\classes_ed55f3448ef0f3cf307fd47e757b26a485f07dc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\dbe05b14eb0ae7f1867219e6f216bbcc65b80a8a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_2cdadef5a9a2f4673e2bca5baa77aedf211e0f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_1c0be257e34f0be596cf546820139b2ec04884a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\79a065b6a7e539e888309ef5ec5829bc7e3836f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_c79b12e173ccde5457be546e8185cff4064d2c56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\59a4bc8201a2373b17228129e3bb4f5e762657f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_241f6cbd63c22615e0f700aee665b4a68e370019.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_8024bf0437eb330e15ac356ebc61307e81713a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\97da8b28d80cfcd89faaba797c902c5c9b0a12de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\classes_f11f0993bb0476767f9450ac8a3a6276a5dfdcae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\Android-SDK\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_0b95d798fabd80d81633128dd1c031def74c4058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\d97d343fe4a3261f96e50b21968d8b98cc2032a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\classes_f86408e40cd865bb23b14639e63c5cb0662fb951.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Tulsi Kavathiya\.android\build-cache\6c303f8429da9f89c62269be5912db5c00948d24\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="E:\Android\StudioWorkspace\AndroidUnitTesting\app\build\intermediates\pre-dexed\androidTest\debug\classes_ae958a91d8839c1ebd07add2c68e13a2a3a31a99.jar" />
+    </item>
+
+</items>
